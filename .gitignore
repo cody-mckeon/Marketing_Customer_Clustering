@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
